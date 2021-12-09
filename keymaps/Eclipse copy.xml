@@ -5,7 +5,12 @@
   <action id="Debugger.ReloadFile">
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
+  <action id="DuplicatesForm.SendToLeft" />
   <action id="ExternalJavaDoc" />
+  <action id="FileChooser.GotoHome" />
+  <action id="GotoBookmark1">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
@@ -19,9 +24,18 @@
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
+  <action id="ProblemsView.QuickFixes">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="shift ctrl space" />
+  </action>
+  <action id="SetShortcutAction">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="Vcs.Log.ShowTooltip">
     <mouse-shortcut keystroke="alt button2" />
