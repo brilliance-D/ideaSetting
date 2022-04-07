@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="-1209" />
     <option name="newTranslationDialogY" value="275" />
     <histories>
+      <item value="ceil" />
       <item value="Mission" />
       <item value="equipIntensify" />
       <item value="Private field 'serverInfoDao' is never assigned" />
@@ -12,11 +13,11 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640590828167" />
+    <option name="lastTrimTime" value="1649314821655" />
   </component>
 </application>
