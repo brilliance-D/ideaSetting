@@ -6,9 +6,7 @@
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
   <action id="DuplicatesForm.SendToLeft" />
-  <action id="EditorCompleteStatement">
-    <keyboard-shortcut first-keystroke="shift ctrl l" />
-  </action>
+  <action id="EditorCompleteStatement" />
   <action id="ExternalJavaDoc" />
   <action id="FileChooser.GotoHome" />
   <action id="GotoBookmark1">
@@ -23,6 +21,9 @@
   <action id="GuiDesigner.QuickJavadoc">
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="shift ctrl space" />
+  </action>
+  <action id="IntentionActionAsAction_com.intellij.codeInsight.intention.impl.IntroduceVariableIntentionAction">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
