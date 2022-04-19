@@ -1,8 +1,22 @@
 <keymap version="1" name="Eclipse 副本" parent="Eclipse">
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="FileChooser.GotoHome" />
+  <action id="GotoBookmark1">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
   <action id="IntentionActionAsAction_com.intellij.codeInsight.intention.impl.IntroduceVariableIntentionAction">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
+  <action id="ProblemsView.QuickFixes">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="SetShortcutAction">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
 </keymap>
