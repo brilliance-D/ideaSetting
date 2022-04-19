@@ -1,0 +1,8 @@
+<keymap version="1" name="Eclipse 副本" parent="Eclipse">
+  <action id="IntentionActionAsAction_com.intellij.codeInsight.intention.impl.IntroduceVariableIntentionAction">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
+</keymap>
